@@ -43,3 +43,4 @@ exclude:
   - screenshot.png
   - docs/
   - node_modules
+theme: jekyll-theme-cayman
