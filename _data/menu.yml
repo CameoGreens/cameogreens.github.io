@@ -32,7 +32,7 @@ menu_pages:
 
 - title: About
   url: about.html
-  show_on_home: True
+  show_on_home: False
   icon_name: fas fa-address-card
   category: about
   tooltip: This is about
