@@ -1,7 +1,7 @@
 menu_title: Example menu title
 menu_headline: example menu headline
 menu_intro: Hi! This is an example of intro that you could write for your jekyll minimal-categorized theme!
-show_menu_on_gate_page: False
+show_menu_on_gate_page: True
 minimal_menu: True
 menu_logo: assets/img/avatar.png
 
@@ -18,7 +18,7 @@ menu_pages:
   image_url: assets/img/category-1.jpg
   icon_name: fas fa-dice
   category: category-1
-  tooltip: This is category 1
+  tooltip: This is Architecture space
   description: Architecture needs are catered here
 
 - title: Programming
@@ -27,12 +27,12 @@ menu_pages:
   image_url: assets/img/category-2.jpg
   icon_name: fas fa-cogs
   category: category-2
-  tooltip: This is category 2
+  tooltip: This is Programming space
   description: Programming needs are catered here
 
 - title: About
   url: about.html
-  show_on_home: False
+  show_on_home: True
   icon_name: fas fa-address-card
   category: about
   tooltip: This is about
